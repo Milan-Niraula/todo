@@ -1,5 +1,6 @@
 {
   "name": "appwrite",
+  "homepage": "https://milan-niraula.github.io/todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
